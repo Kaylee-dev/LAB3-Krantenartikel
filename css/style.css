@@ -1,0 +1,39 @@
+body{
+	background-color: lightblue;
+}
+  h1{
+	
+
+}
+
+#vloot1 {
+	border: 2px solid;
+	float: left;
+	margin-top: 10px;
+}
+
+#vloot2 {
+	border: 2px solid;
+	float: right;
+
+}
+
+
+#vloot3 {
+	border: 2px solid;
+	float: left;
+}
+
+p{
+	
+  margin-left: 10px
+  
+ 
+}
+
+div{
+	width: 800px;
+}
+
+
+
